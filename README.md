@@ -2,8 +2,9 @@
 
 Here you will find materials from our 9/9/2020 class, including:
 
-SQL-OR-DATA-SCIENTISTS.pdf - a PDF version of the slides from the class session
-class.zip - a zip'd directory named 'class' containing SQL input files to reproduce the databases and tables used in the slides (which will be our starting point for the lab section, for those of you in the MIDS version of the class).
+* SQL-OR-DATA-SCIENTISTS.pdf - a PDF version of the slides from the class session
+* class.zip - a zip'd directory named 'class' containing SQL input files to reproduce the databases and tables used in the slides (which will be our starting point for the lab section, for those of you in the MIDS version of the class).
+* class/ - the unpacked class.zip archive -- directory containing SQL files for the example databases
 
 To reconstitute the databases used in constructing the examples in the slides, do the following:
 
@@ -11,7 +12,7 @@ To reconstitute the databases used in constructing the examples in the slides, d
 
 * Change into the "mids706w4" subdirectory:  cd mids706w4
 
-* Unzip the 'class.zip' file into a 'class' subdirectory:  unzip class.zip
+* Optionally Unzip the 'class.zip' file into a 'class' subdirectory:  unzip class.zip (note:  the class subdirectory should already exist and be populated, so this is an optional step)
 
 * Make sure your local MySQL server is up and running 
 
