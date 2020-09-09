@@ -7,7 +7,7 @@ class.zip - a zip'd directory named 'class' containing SQL input files to reprod
 
 To reconstitute the databases used in constructing the examples in the slides, do the following:
 
-* Retrieve this project from the Git server:  git clone https://github.com/mids706w4.git
+* Retrieve this project from the Git server:  git clone https://github.com/carte018/mids706w4.git
 
 * Unzip the 'class.zip' file into a 'class' subdirectory:  unzip class.zip
 
