@@ -1,6 +1,3 @@
--rw-r--r--@ 1 rob  staff  4051965 Sep  9 09:06 SQL-FOR-DATA-SCIENTISTS.pdf
--rw-r--r--  1 rob  staff   668503 Sep  9 09:17 class.zip
-
 # ROOTS/MIDS 706 - SQL for Data Scientists (Rob Carter, 9/9/2020, MIDS lab 9/14/2020)
 
 Here you will find materials from our 9/9/2020 class, including:
