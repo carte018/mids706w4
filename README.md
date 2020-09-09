@@ -2,7 +2,7 @@
 
 Here you will find materials from our 9/9/2020 class, including:
 
-* SQL-OR-DATA-SCIENTISTS.pdf - a PDF version of the slides from the class session
+* SQL-FOR-DATA-SCIENTISTS.pdf - a PDF version of the slides from the class session
 * class.zip - a zip'd directory named 'class' containing SQL input files to reproduce the databases and tables used in the slides (which will be our starting point for the lab section, for those of you in the MIDS version of the class).
 * class/ - the unpacked class.zip archive -- directory containing SQL files for the example databases
 
