@@ -9,7 +9,7 @@ To reconstitute the databases used in constructing the examples in the slides, d
 
 * Retrieve this project from the Git server:  git clone https://github.com/carte018/mids706w4.git
 
-* Change nto the "mids706w4" subdirectory:  cd mids706w4
+* Change into the "mids706w4" subdirectory:  cd mids706w4
 
 * Unzip the 'class.zip' file into a 'class' subdirectory:  unzip class.zip
 
