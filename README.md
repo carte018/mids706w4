@@ -18,17 +18,17 @@ To reconstitute the databases used in constructing the examples in the slides, d
 
 * Create the databases from the SQL files provided as follows:
 
-mysql -u root -p -e 'create database running_totals'
-mysql -u root -p running_totals < class/running_totals.sql
+** mysql -u root -p -e 'create database running_totals'
+** mysql -u root -p running_totals < class/running_totals.sql
 
-mysql -u root -p -e 'create database dewey_cheatham_howe'
-mysql -u root -p dewey_cheatham_howe < class/dewey_cheatham_howe.sql
+** mysql -u root -p -e 'create database dewey_cheatham_howe'
+** mysql -u root -p dewey_cheatham_howe < class/dewey_cheatham_howe.sql
 
-mysql -u root -p -e 'create database orders'
-mysql -u root -p  orders < class/orders.sql
+** mysql -u root -p -e 'create database orders'
+** mysql -u root -p  orders < class/orders.sql
 
-mysql -u root -p -e 'create database normalized'
-mysql -u root -p normalized < class/normalized.sql
+** mysql -u root -p -e 'create database normalized'
+** mysql -u root -p normalized < class/normalized.sql
 
 * Start playing with more advanced SQL!
 
