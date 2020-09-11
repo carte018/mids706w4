@@ -18,7 +18,7 @@ To reconstitute the databases used in constructing the examples in the slides, d
 
 * Create the databases from the SQL files provided as follows:
 
-mysql -u root -p -e 'create database running_toals'
+mysql -u root -p -e 'create database running_totals'
 mysql -u root -p running_totals < class/running_totals.sql
 
 mysql -u root -p -e 'create database dewey_cheatham_howe'
