@@ -3,6 +3,7 @@
 Here you will find materials from our 9/9/2020 class, including:
 
 * SQL-FOR-DATA-SCIENTISTS.pdf - a PDF version of the slides from the class session
+* MIDS-706w4-Lab-Section.pdf - a PDF version of the slides from the lab session (2021)
 * class.zip - a zip'd directory named 'class' containing SQL input files to reproduce the databases and tables used in the slides (which will be our starting point for the lab section, for those of you in the MIDS version of the class).
 * class/ - the unpacked class.zip archive -- directory containing SQL files for the example databases
 
